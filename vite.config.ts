@@ -4,7 +4,7 @@ import * as path from 'path'
 // const path = require('path')
 
 export default defineConfig({
-  base: './',
+  base: '/',
   build:{
     outDir:'dist'
   },
